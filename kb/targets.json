@@ -1,0 +1,326 @@
+{
+    "target_rules": [
+        {
+            "pattern": null,
+            "metadata": null,
+            "literal": "abnormal fluid",
+            "category": "FLUID_COLLECTION",
+            "attributes": null
+        },
+        {
+            "pattern": "(micro)*ab[a-z]*ess[es]*",
+            "metadata": null,
+            "literal": "abscess",
+            "category": "FLUID_COLLECTION",
+            "attributes": null
+        },
+        {
+            "pattern": null,
+            "metadata": null,
+            "literal": "abscesses",
+            "category": "FLUID_COLLECTION",
+            "attributes": null
+        },
+        {
+            "pattern": "air[ and/]*fluid collections*",
+            "metadata": null,
+            "literal": "air and fluid collection",
+            "category": "FLUID_COLLECTION",
+            "attributes": null
+        },
+        {
+            "pattern": "air[-/ ]fluid collection",
+            "metadata": null,
+            "literal": "air-fluid collection",
+            "category": "FLUID_COLLECTION",
+            "attributes": null
+        },
+        {
+            "pattern": null,
+            "metadata": null,
+            "literal": "biloma",
+            "category": "FLUID_COLLECTION",
+            "attributes": null
+        },
+        {
+            "pattern": null,
+            "metadata": null,
+            "literal": "collectin",
+            "category": "FLUID_COLLECTION",
+            "attributes": null
+        },
+        {
+            "pattern": "collections*",
+            "metadata": null,
+            "literal": "collection",
+            "category": "FLUID_COLLECTION",
+            "attributes": null
+        },
+        {
+            "pattern": "collections* of air[ and/]*fluid",
+            "metadata": null,
+            "literal": "collection of air and fluid",
+            "category": "FLUID_COLLECTION",
+            "attributes": null
+        },
+        {
+            "pattern": "complex fluids*",
+            "metadata": null,
+            "literal": "complex fluid",
+            "category": "FLUID_COLLECTION",
+            "attributes": null
+        },
+        {
+            "pattern": "fluid[- ]{1}accumulation",
+            "metadata": null,
+            "literal": "fluid accumulation",
+            "category": "FLUID_COLLECTION",
+            "attributes": null
+        },
+        {
+            "pattern": "fluid and air collections*",
+            "metadata": null,
+            "literal": "fluid and air collection",
+            "category": "FLUID_COLLECTION",
+            "attributes": null
+        },
+        {
+            "pattern": "(collect[ions]* of fluids*)|(fluid collect[ions]*)",
+            "metadata": null,
+            "literal": "fluid collection",
+            "category": "FLUID_COLLECTION",
+            "attributes": null
+        },
+        {
+            "pattern": "fluid complications*",
+            "metadata": null,
+            "literal": "fluid complications",
+            "category": "FLUID_COLLECTION",
+            "attributes": null
+        },
+        {
+            "pattern": "fluid locules*",
+            "metadata": null,
+            "literal": "fluid locule",
+            "category": "FLUID_COLLECTION",
+            "attributes": null
+        },
+        {
+            "pattern": "fluid pockets*",
+            "metadata": null,
+            "literal": "fluid pocket",
+            "category": "FLUID_COLLECTION",
+            "attributes": null
+        },
+        {
+            "pattern": null,
+            "metadata": null,
+            "literal": "fluid pocket",
+            "category": "FLUID_COLLECTION",
+            "attributes": null
+        },
+        {
+            "pattern": "fluid[- ]re-*accumulation",
+            "metadata": null,
+            "literal": "fluid reaccumulation",
+            "category": "FLUID_COLLECTION",
+            "attributes": null
+        },
+        {
+            "pattern": null,
+            "metadata": null,
+            "literal": "focal fluid",
+            "category": "FLUID_COLLECTION",
+            "attributes": null
+        },
+        {
+            "pattern": "hematomas*",
+            "metadata": null,
+            "literal": "hematoma",
+            "category": "FLUID_COLLECTION",
+            "attributes": null
+        },
+        {
+            "pattern": "heterogeneous collections*",
+            "metadata": null,
+            "literal": "heterogeneous collection",
+            "category": "FLUID_COLLECTION",
+            "attributes": null
+        },
+        {
+            "pattern": null,
+            "metadata": null,
+            "literal": "loculated area",
+            "category": "FLUID_COLLECTION",
+            "attributes": null
+        },
+        {
+            "pattern": "(multi)*loculated[ a-z] (fluid)|(collections*)",
+            "metadata": null,
+            "literal": "loculated collection",
+            "category": "FLUID_COLLECTION",
+            "attributes": null
+        },
+        {
+            "pattern": "loculated[ a-z]* fluid",
+            "metadata": null,
+            "literal": "loculated fluid",
+            "category": "FLUID_COLLECTION",
+            "attributes": null
+        },
+        {
+            "pattern": null,
+            "metadata": null,
+            "literal": "loculated peritoneal fluid",
+            "category": "FLUID_COLLECTION",
+            "attributes": null
+        },
+        {
+            "pattern": "loculations*",
+            "metadata": null,
+            "literal": "loculation",
+            "category": "FLUID_COLLECTION",
+            "attributes": null
+        },
+        {
+            "pattern": "locules* of fluids*",
+            "metadata": null,
+            "literal": "locule of fluid",
+            "category": "FLUID_COLLECTION",
+            "attributes": null
+        },
+        {
+            "pattern": null,
+            "metadata": null,
+            "literal": "locules of fluid",
+            "category": "FLUID_COLLECTION",
+            "attributes": null
+        },
+        {
+            "pattern": null,
+            "metadata": null,
+            "literal": "multiloculated fluid",
+            "category": "FLUID_COLLECTION",
+            "attributes": null
+        },
+        {
+            "pattern": null,
+            "metadata": null,
+            "literal": "pockets of ascites",
+            "category": "FLUID_COLLECTION",
+            "attributes": null
+        },
+        {
+            "pattern": null,
+            "metadata": null,
+            "literal": "pockets of fluid",
+            "category": "FLUID_COLLECTION",
+            "attributes": null
+        },
+        {
+            "pattern": null,
+            "metadata": null,
+            "literal": "pockets of gas",
+            "category": "FLUID_COLLECTION",
+            "attributes": null
+        },
+        {
+            "pattern": null,
+            "metadata": null,
+            "literal": "rim-enhancing fluid",
+            "category": "FLUID_COLLECTION",
+            "attributes": null
+        },
+        {
+            "pattern": null,
+            "metadata": null,
+            "literal": "rim-enhancing lesion",
+            "category": "FLUID_COLLECTION",
+            "attributes": null
+        },
+        {
+            "pattern": "seromas*",
+            "metadata": null,
+            "literal": "seroma",
+            "category": "FLUID_COLLECTION",
+            "attributes": null
+        },
+        {
+            "pattern": null,
+            "metadata": null,
+            "literal": "seroma",
+            "category": "FLUID_COLLECTION",
+            "attributes": null
+        },
+        {
+            "pattern": "collections* of air|air collections*",
+            "metadata": null,
+            "literal": "collection of air",
+            "category": "PSEUDOANCHOR",
+            "attributes": null
+        },
+        {
+            "pattern": "collections* of gas|gas collections*",
+            "metadata": null,
+            "literal": "collection of gas",
+            "category": "PSEUDOANCHOR",
+            "attributes": null
+        },
+        {
+            "pattern": null,
+            "metadata": null,
+            "literal": "collectional",
+            "category": "PSEUDOANCHOR",
+            "attributes": null
+        },
+        {
+            "pattern": null,
+            "metadata": null,
+            "literal": "fluid overload",
+            "category": "PSEUDOANCHOR",
+            "attributes": null
+        },
+        {
+            "pattern": null,
+            "metadata": null,
+            "literal": "fluid resuscitation",
+            "category": "PSEUDOANCHOR",
+            "attributes": null
+        },
+        {
+            "pattern": null,
+            "metadata": null,
+            "literal": "gas locules",
+            "category": "PSEUDOANCHOR",
+            "attributes": null
+        },
+        {
+            "pattern": "locules* of air|air locules*",
+            "metadata": null,
+            "literal": "locule of air",
+            "category": "PSEUDOANCHOR",
+            "attributes": null
+        },
+        {
+            "pattern": "mimics fluid collections*",
+            "metadata": null,
+            "literal": "mimics fluid collection",
+            "category": "PSEUDOANCHOR",
+            "attributes": null
+        },
+        {
+            "pattern": "non[- ]loculated fluid",
+            "metadata": null,
+            "literal": "non-loculated fluid",
+            "category": "PSEUDOANCHOR",
+            "attributes": null
+        },
+        {
+            "pattern": null,
+            "metadata": null,
+            "literal": "free fluid",
+            "category": "PSEUDOCANCHOR",
+            "attributes": null
+        }
+    ]
+}
