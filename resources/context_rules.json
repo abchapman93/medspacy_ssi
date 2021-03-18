@@ -233,7 +233,7 @@
         },
         {
             "max_scope": null,
-            "pattern": "col[onic]*",
+            "pattern": "\bcol[onic]*\b",
             "metadata": null,
             "literal": "colon",
             "max_targets": null,
